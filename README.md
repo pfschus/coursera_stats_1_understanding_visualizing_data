@@ -24,3 +24,9 @@ Patricia Schuster, University of Michigan
 ![Tips data](tips_data.png)
 
 # Week 3
+
+* [Week 3 notes](week_3_notes.ipynb)
+    * Multivariate data
+    * Associations with multivariate quantitative data
+    * Pizza study design assignment
+    * Quiz
